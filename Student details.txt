@@ -1,0 +1,4 @@
+Student details
+Name: Medisetti Annapurneswari
+Group: Bsc-cs-1
+Roll number: 38
